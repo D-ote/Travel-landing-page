@@ -1,11 +1,6 @@
 import rocks from "../assets/Images/manRocks.jpg"
 import bike from "../assets/Images/bike.jpg"
 import desert from "../assets/Images/desertd.jpg"
-import driving from "../assets/Images/driving.jpg"
-import horyuji from "../assets/Images/horyuji.jpg"
-import lonelyRoad from "../assets/Images/lonelyRoad.jpg"
-import cityView1 from "../assets/Images/cityView1.jpg"
-import boatRide from "../assets/Images/boatRide.jpg"
 import Button from "./Button"
 
 const About = () => {
